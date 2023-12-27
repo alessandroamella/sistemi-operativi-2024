@@ -1,3 +1,8 @@
-# Progetto di sistemi operativi 2023/2024
+# MicroPandOS su umps3
 
-[Autori](AUTHORS)
+Per compilare il progetto:
+```bash
+make
+```
+
+Aprire `umps3` e creare una macchina, controllare per bene che i path corrispondano.
