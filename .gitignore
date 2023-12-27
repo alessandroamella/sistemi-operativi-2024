@@ -1,3 +1,10 @@
+# Terminal and uMPS related
+*.umps
+kernel
+
+# VS Code related
+.vscode/
+
 # Prerequisites
 *.d
 
