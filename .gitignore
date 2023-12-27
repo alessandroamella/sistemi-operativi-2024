@@ -1,3 +1,6 @@
+# Builds
+build/*
+
 # Terminal and uMPS related
 *.umps
 kernel
